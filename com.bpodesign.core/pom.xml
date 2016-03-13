@@ -20,8 +20,6 @@
   </build>
   
   <modules>
-  	<module>com.bpodesign.core.interfaces</module>
-  	<module>com.bpodesign.core.entities</module>
   	<module>com.bpodesign.core.common</module>
   </modules>
 </project>
