@@ -21,5 +21,7 @@
   
   <modules>
   	<module>com.bpodesign.core.common</module>
+  	<module>com.bpodesign.core.interfaces</module>
+  	<module>com.bpodesign.core.entities</module>
   </modules>
 </project>
