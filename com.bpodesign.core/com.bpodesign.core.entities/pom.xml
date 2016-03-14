@@ -7,4 +7,11 @@
   </parent>
   <artifactId>com.bpodesign.core.entities</artifactId>
   <name>com.bpodesign.core.entities</name>
+  <dependencies>
+  	<dependency>
+  		<groupId>com.bpodesign</groupId>
+  		<artifactId>com.bpodesign.core.interfaces</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
+  </dependencies>
 </project>

@@ -7,4 +7,11 @@
   </parent>
   <artifactId>com.bpodesign.core.interfaces</artifactId>
   <name>com.bpodesign.core.interfaces</name>
+  <dependencies>
+  	<dependency>
+  		<groupId>joda-time</groupId>
+  		<artifactId>joda-time</artifactId>
+  		<version>2.2</version>
+  	</dependency>
+  </dependencies>
 </project>

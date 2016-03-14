@@ -24,4 +24,12 @@
     <modules>
     	<module>com.bpodesign.cygnus.organizationDomain</module>
     </modules>
+    <dependencies>
+    	<dependency>
+    		<groupId>com.bpodesign</groupId>
+    		<artifactId>com.bpodesign.core</artifactId>
+    		<version>0.0.1-SNAPSHOT</version>
+    		<type>pom</type>
+    	</dependency>
+    </dependencies>
 </project>
