@@ -21,4 +21,7 @@
     </plugins>
   </build>
   
+    <modules>
+    	<module>com.bpodesign.cygnus.organizationDomain</module>
+    </modules>
 </project>
