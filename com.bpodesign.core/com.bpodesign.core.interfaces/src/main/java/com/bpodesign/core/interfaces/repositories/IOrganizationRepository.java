@@ -1,7 +1,7 @@
 package com.bpodesign.core.interfaces.repositories;
 
-import com.bpodesign.core.interfaces.entities.IOrganization;
+import com.bpodesign.core.entities.Organization;
 
-public interface IOrganizationRepository extends IRepositoryBase<IOrganization> {
+public interface IOrganizationRepository extends IRepositoryBase<Organization> {
 
 }
